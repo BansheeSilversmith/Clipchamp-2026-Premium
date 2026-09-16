@@ -1,0 +1,23 @@
+{
+  "repo": "clipchamp-2026-premium",
+  "product": "Clipchamp 2026 Premium",
+  "kind": "video",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "web-video",
+  "topics": [
+    "clipchamp-pro",
+    "caption-video-desk",
+    "brand-kit-windows",
+    "clipchamp-2026",
+    "how-to-install-clipchamp",
+    "clipchamp-desktop-package",
+    "stock-media-suite",
+    "social-clip-tools",
+    "office-video-desk",
+    "clipchamp-premium"
+  ],
+  "site": "toolix.me"
+}
